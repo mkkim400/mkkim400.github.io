@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome! I am **Minki Kim**, a Senior Research Associate at the Center for Fluid Mechanics, Brown University. My work focuses on computational fluid dynamics, particularly in environmental and multiphase flow systems. I develop high-fidelity simulations to understand complex fluid behaviors, from oceanic energy transport to cavitation dynamics and bioreactor design for cultivated meat production.
+
+I am especially interested in applying advanced numerical modeling and remote sensing techniques to address large-scale geophysical and biological problems. My research spans ocean-ice-atmosphere interactions, compressible multiphase flows, and sustainable bioprocessing systems — all united by a commitment to rigorous modeling and real-world impact. Currently, I collaborate on projects involving Lagrangian sea ice tracking, Arctic eddy energetics, and open-source tools for cellular agriculture. I also actively mentor undergraduate and graduate researchers and contribute to interdisciplinary science outreach efforts.
+
+Feel free to explore my [publications](/publications/), check out ongoing [projects](/portfolio/), or [download my CV](/files/MinkiKim_CV.pdf).
+
+
+### This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
