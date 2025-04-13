@@ -19,19 +19,19 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
 
   <!-- Image 1 -->
-  <img src="/images/Fig_greenland.png" alt="Satellite image of Arctic floes" style="width:50%;"/>
-
-  <!-- Image 2 -->
-  <img src="/images/image2.png" alt="Vorticity simulation" style="width:100%;"/>
-
-  <!-- Image 3 -->
-  <img src="/images/image3.png" alt="Bubble dynamics model" style="width:100%;"/>
+  <img src="/images/Fig_greenland.png" alt="Satellite image of Arctic floes" style="width:70%;"/>
 
   <!-- Video -->
   <video controls style="width:100%;">
     <source src="/images/Video_simul.gif" type="video/gif">
     Your browser does not support the video tag.
   </video>
+  
+  <!-- Image 2 -->
+  <img src="/images/image2.png" alt="Vorticity simulation" style="width:100%;"/>
+
+  <!-- Image 3 -->
+  <img src="/images/image3.png" alt="Bubble dynamics model" style="width:100%;"/>
 
 </div>
 
