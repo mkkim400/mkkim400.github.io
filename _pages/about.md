@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Minki Kim**, a Senior Research Associate at the Center for Fluid Mechanics, Brown University. My work focuses on computational fluid dynamics, particularly in environmental and multiphase flow systems. I develop high-fidelity simulations to understand complex fluid behaviors, from oceanic energy transport to cavitation dynamics and bioreactor design for cultivated meat production.
 
-I am especially interested in applying advanced numerical modeling and remote sensing techniques to address large-scale geophysical and biological problems. My research spans ocean-ice-atmosphere interactions, compressible multiphase flows, and sustainable bioprocessing systems — all united by a commitment to rigorous modeling and real-world impact. Currently, I collaborate on projects involving Lagrangian sea ice tracking, Arctic eddy energetics, and open-source tools for cellular agriculture. I also actively mentor undergraduate and graduate researchers and contribute to interdisciplinary science outreach efforts.
+Welcome! I am **Minki Kim**, a Senior Research Associate in the **Wilhelmus Lab** and **Harris Lab** at the Center for Fluid Mechanics, School of Engineering, Brown University. My work focuses on computational fluid dynamics, particularly in environmental and multiphase flow systems. I develop high-fidelity simulations to understand complex fluid behaviors, from oceanic energy transport to cavitation dynamics and bioreactor design for cultivated meat production. At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics, climate science, biological engineering, and applied mathematics. I also enjoy mentoring students and collaborating across fields to create open-source tools for complex fluid systems. I received my Ph.D. in Mechanical Engineering and Scientific Computing from the University of Michigan, Ann Arbor, and my undergraduate degree from Seoul National University.
 
 Feel free to explore my [publications](/publications/), check out ongoing [projects](/portfolio/), or [download my CV](/files/MinkiKim_CV.pdf).
 
