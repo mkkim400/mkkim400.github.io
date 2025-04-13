@@ -8,14 +8,15 @@ redirect_from:
 ---
 
 <br>
-Welcome! I am **Minki Kim**, a Senior Research Associate in the **[Wilhelmus Lab](https://wilhelmuslab.me/)** and **[Harris Lab](https://sites.brown.edu/harrislab/)** at the Center for Fluid Mechanics, School of Engineering, **Brown University**. My work focuses on **Computational Fluid Dynamics**, particularly in **environmental and multiphase flow systems**. I develop numerical modeling and theoretical approaches to understand complex fluid behaviors, from oceanic energy transport to cavitation dynamics and bioreactor design for cultivated meat production. 
+Welcome! I am **Minki Kim**, a Senior Research Associate in the **[Wilhelmus Lab](https://wilhelmuslab.me/)** and **[Harris Lab](https://sites.brown.edu/harrislab/)** at the Center for Fluid Mechanics, School of Engineering, **Brown University**. My work focuses on **Computational Fluid Dynamics**, particularly in **Environmental and Multiphase Flow Systems**. I develop numerical modeling and theoretical approaches to understand complex fluid behaviors, from oceanic energy transport to cavitation dynamics and bioreactor design for cultivated meat production. 
 
 At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics, climate science, biological engineering, and applied mathematics. I also enjoy mentoring students and collaborating across fields to create open-source tools for complex fluid systems. I received my Ph.D. in Mechanical Engineering and Scientific Computing in the **[Scientific Computing and Flow Physics Laboratory](https://public.websites.umich.edu/~ejohnsen/home.html)** from the **University of Michigan, Ann Arbor**, and my undergraduate degree from **Seoul National University**.
 
 <!-- Feel free to explore my [publications](/publications/), check out ongoing [projects](/portfolio/), or [download my CV](/files/MinkiKim_CV.pdf). -->
-
 <br>
 
+  
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -53,4 +54,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
