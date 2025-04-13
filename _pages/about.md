@@ -14,6 +14,26 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 
 <!-- Feel free to explore my [publications](/publications/), check out ongoing [projects](/portfolio/), or [download my CV](/files/MinkiKim_CV.pdf). -->
 <br>
+<br>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+
+  <!-- Image 1 -->
+  <img src="/images/Fig_greenland.png" alt="Satellite image of Arctic floes" style="width:100%; border: 2px solid black;"/>
+
+  <!-- Image 2 -->
+  <img src="/images/image2.png" alt="Vorticity simulation" style="width:100%; border: 2px solid black;"/>
+
+  <!-- Image 3 -->
+  <img src="/images/image3.png" alt="Bubble dynamics model" style="width:100%; border: 2px solid black;"/>
+
+  <!-- Video -->
+  <video controls style="width:100%; border: 2px solid black;">
+    <source src="/videos/Video_simul.gif" type="video/gif">
+    Your browser does not support the video tag.
+  </video>
+
+</div>
 
   
 <!--
