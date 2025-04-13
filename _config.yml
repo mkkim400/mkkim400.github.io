@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Minki_photo.jpg"
+  avatar           : "Minki_photo.png"
   name             : "Minki Kim"
   pronouns         : # example: "he/him"  
   bio              : "Senior Research Associate at Brown University, specializing in computational fluid dynamics with a focus on ocean dynamics, multiphase flows, sea ice, and high-fidelity simulations."
