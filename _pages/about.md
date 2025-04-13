@@ -12,9 +12,8 @@ Welcome! I am **Minki Kim**, a Senior Research Associate in the **[Wilhelmus Lab
 
 At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics, climate science, biological engineering, and applied mathematics. I also enjoy mentoring students and collaborating across fields to create open-source tools for complex fluid systems. I received my Ph.D. in Mechanical Engineering and Scientific Computing in the **[Scientific Computing and Flow Physics Laboratory](https://public.websites.umich.edu/~ejohnsen/home.html)** from the **University of Michigan, Ann Arbor**, and my undergraduate degree from **Seoul National University**.
 
-Feel free to explore my [publications](/publications/), check out ongoing [projects](/portfolio/), or [download my CV](/files/MinkiKim_CV.pdf).
-
-
+<!-- This is a comment -->
+### Feel free to explore my [publications](/publications/), check out ongoing [projects](/portfolio/), or [download my CV](/files/MinkiKim_CV.pdf).
 ### This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
