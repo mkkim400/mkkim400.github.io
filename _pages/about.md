@@ -19,7 +19,6 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 <!-- Image 1 -->
 <img src="/images/Fig_all.png" alt="all floes" style="width:100%;"/>
 
-
 <!--
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1px;">
 
