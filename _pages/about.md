@@ -29,7 +29,7 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 
   <!-- Video -->
   <video controls style="width:100%; border: 2px solid black;">
-    <source src="/videos/Video_simul.gif" type="video/gif">
+    <source src="/images/Video_simul.gif" type="video/gif">
     Your browser does not support the video tag.
   </video>
 
