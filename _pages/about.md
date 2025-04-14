@@ -16,6 +16,7 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 <br>
 <br>
 
+<!--
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10;">
   <!-- Image 1 -->
   <img src="/images/Fig_greenland.png" alt="Satellite image of Arctic floes" style="height: 400px; width: 280px; display:block;"/>
@@ -29,7 +30,7 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
   <!-- Image 4 -->
   <img src="/images/Fig_bio_crop.gif" alt="bioreactor simulation" style="height: auto; width: 320px; display:block;"/>
 </div>
-
+-->
   
 <!--
 A data-driven personal website
