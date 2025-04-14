@@ -13,8 +13,12 @@ Welcome! I am **Minki Kim**, a Senior Research Associate in the **[Wilhelmus Lab
 At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics, climate science, biological engineering, and applied mathematics. I also enjoy mentoring students and collaborating across fields to create open-source tools for complex fluid systems. I received my Ph.D. in Mechanical Engineering and Scientific Computing in the **[Scientific Computing and Flow Physics Laboratory](https://public.websites.umich.edu/~ejohnsen/home.html)** from the **University of Michigan, Ann Arbor**, and my undergraduate degree from **Seoul National University**.
 
 <!-- Feel free to explore my [publications](/publications/), check out ongoing [projects](/portfolio/), or [download my CV](/files/MinkiKim_CV.pdf). -->
+<!-- ![CFD across scales](/images/Fig_total.png) -->
 
-![CFD across scales](/images/Fig_total.png)
+<div style="text-align: center;">
+  <img src="/images/Fig_total.png" alt="CFD Overview Diagram" style="max-width: 600px; width: 90%; height: auto;"/>
+  </p>
+</div>
 
 
 <!--
