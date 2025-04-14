@@ -16,8 +16,7 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 <!-- ![CFD across scales](/images/Fig_total.png) -->
 
 <div style="text-align: center;">
-  <img src="/images/Fig_total.png" alt="CFD Overview Diagram" style="max-width: 600px; width: 90%; height: auto;"/>
-  </p>
+  <img src="/images/Fig_total.png" alt="CFD Overview Diagram" style="max-width: 700px; width: 100%; height: auto;"/>
 </div>
 
 
