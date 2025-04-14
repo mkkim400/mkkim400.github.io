@@ -16,7 +16,7 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 <br>
 <br>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10;">
   <!-- Image 1 -->
   <img src="/images/Fig_greenland.png" alt="Satellite image of Arctic floes" style="height: 400px; width: 280px; display:block;"/>
 
