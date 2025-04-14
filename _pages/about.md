@@ -16,6 +16,12 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
 <br>
 <br>
 
+![CFD across scales](/images/Fig_total.png)
+
+<p style="text-align:center; font-style: italic; font-size: 0.9rem;">
+  Computational fluid dynamics across scales — from microscale cavitation to Arctic-scale ocean processes.
+</p>
+
 <!--
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10;">
   <img src="/images/Fig_greenland.png" alt="Satellite image of Arctic floes" style="height: 400px; width: 280px; display:block;"/>
