@@ -24,10 +24,10 @@ At Brown, I contribute to interdisciplinary projects that bridge fluid mechanics
   <img src="/images/Video_simul.gif" alt="Sea ice-QG simulation" style="height: 400px; width: auto;"/>
 
   <!-- Image 3 -->
-  <img src="/images/Fig_cav_crop.gif" alt="cavitation simulation" style="height: auto; width: 300px;"/>
+  <img src="/images/Fig_cav_crop.gif" alt="cavitation simulation" style="height: auto; width: 280px;"/>
 
   <!-- Image 4 -->
-  <img src="/images/Fig_bio.gif" alt="bioreactor simulation" style="height: auto; width: 300px;"/>
+  <img src="/images/Fig_bio_ㅊ개ㅔ.gif" alt="bioreactor simulation" style="height: auto; width: 280px;"/>
 </div>
 
   
